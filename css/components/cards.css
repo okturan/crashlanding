@@ -1,0 +1,40 @@
+.card-product {
+
+  margin: 2vmax 2vw;
+  padding-bottom: 2vh;
+  padding-top: 1vh;
+  display: inline-block;
+  min-width: 25%;
+  max-width: 85%;
+  width: calc((400px - 50vw) * 400 );
+  min-height: 35vh;
+  max-height: 40vh;
+  height: calc((400px - 50vw) * 400 );
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.card-product-info {
+  padding: 0 5%;
+}
+
+.card-product-info h2 {
+  margin-top: 20px
+}
+
+.card-product-info p {
+  margin: 0;
+}
+
+.card-product-img {
+  margin: 0 5%;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 50%;
+}
+
+.features-container {
+  text-align: center;
+  margin: 5vh 0;
+  padding: 0 1vw;
+}

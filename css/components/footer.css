@@ -1,0 +1,10 @@
+.footer {
+  height: fit-content;
+  text-align: center;
+}
+
+.footer-content {
+  display: inline-block;
+  color: white;
+  padding: 20px
+}
